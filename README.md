@@ -13,9 +13,9 @@ This is a project done to get familiar with linters and gitflow.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/asharanjith)
-- Twitter: [@twitterhandle](https://twitter.com/asha_cep)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/asha-vijayan-67179a18)
+- GitHub: [@asharanjith](https://github.com/asharanjith)
+- Twitter: [@asha_cep](https://twitter.com/asha_cep)
+- LinkedIn: [asha-vijayan](https://www.linkedin.com/in/asha-vijayan-67179a18)
 
 
 ## 🤝 Contributing
